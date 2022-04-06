@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>"C:\Program Files\RevitAPITraining\RevitAPILab_5_2_ChangeWallType.dll"</Assembly>
+    <AddInId>9EDBC5E0-0121-435C-851C-239F490B1F06</AddInId>
+    <FullClassName>RevitAPILab_5_2_ChangeWallType.Main</FullClassName>
+    <VendorId>ADSK</VendorId>
+    <Text>Изменить тип стен</Text>
+  </AddIn>
+</RevitAddIns>
